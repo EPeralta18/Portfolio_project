@@ -3,7 +3,7 @@ ul
 {
     list-style:none;
     display: flex;
-    justify-content:flex-end;
+    justify-content:space around;
 }
 
 li
@@ -16,5 +16,5 @@ li
 
 body
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Mansalva', cursive;
 }
